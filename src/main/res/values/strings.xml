@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">projectsem4</string>
+    <string name="textview">search</string>
+    <string name="login">login</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+</resources>
